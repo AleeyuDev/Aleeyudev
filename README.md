@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aliyu idris</h1>
 <h3 align="center">A junior frontend developer from Nigeria. i'm passionate about tech </h3>
+
  <img  align="right" width="400px" src="https://imgs.search.brave.com/WVq9fsl-IQF3p1ezdJmMdaqa39WMhnm9_jgAPpIK720/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.jpeg" alt="coding Image" />
+
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
